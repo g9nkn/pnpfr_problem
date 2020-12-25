@@ -88,6 +88,6 @@ Code: <http://people.inf.ethz.ch/vlarsson/misc/autogen_v0_5.zip>
 
 ## Contributors
 
-- Gaku Nakano, Central Research Labratories, NEC Corporation.  
+- Gaku Nakano, Central Research Laboratories, NEC Corporation.  
 <g-nakano@nec.com>  
 <https://www.nec.com/en/global/rd/people/gaku_nakano.html>
